@@ -1,0 +1,2 @@
+<?php $__env->startComponent('components.sobre-nos'); ?><?php echo $__env->renderComponent(); ?>
+<?php echo $__env->make('common.basic-template', \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?><?php /**PATH D:\xampp\htdocs\PizzaTube\resources\views/public/sobre-nos.blade.php ENDPATH**/ ?>
